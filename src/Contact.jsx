@@ -964,7 +964,7 @@ export default function ContactSection() {
               </a>
 
               <a
-                href="https://www.linkedin.com/in/usmanqaimkhani"
+                href="https://www.linkedin.com/in/m-usman-kq"
                 target="_blank"
                 rel="noreferrer"
                 className="social-btn"

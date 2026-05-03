@@ -369,7 +369,7 @@ export default function HeroSection() {
               </motion.div>
               <button
                 className="btn-secondary"
-                onClick={() => window.open("/src/assets/hero.png", "_blank")}
+                onClick={() => window.open("/src/assets/resume.pdf", "_blank")}
               >
                 Download CV
               </button>
