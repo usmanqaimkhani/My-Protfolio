@@ -105,6 +105,20 @@ VideoEditing: (
     <line x1="30" y1="38" x2="30" y2="42" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round"/>
   </svg>
 ),
+
+  Python: (
+    <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" width="46" height="46"><path
+        d="M24 4C14.5 4 15 8.5 15 11.5V15H24.5V16.5H11.5C8 16.5 4 18.5 4 25.5C4 32.5 7.5 33.5 10.5 33.5H14V29.5C14 24.5 18 20.5 23 20.5H32.5V14.5C32.5 8.5 29.5 4 24 4Z"
+        fill="currentColor"
+      />
+      <path
+        d="M24 44C33.5 44 33 39.5 33 36.5V33H23.5V31.5H36.5C40 31.5 44 29.5 44 22.5C44 15.5 40.5 14.5 37.5 14.5H34V18.5C34 23.5 30 27.5 25 27.5H15.5V33.5C15.5 39.5 18.5 44 24 44Z"
+        fill="currentColor"
+      />
+      <circle cx="19.5" cy="9.5" r="1.5" fill="#FFF" />
+      <circle cx="28.5" cy="38.5" r="1.5" fill="#FFF" />
+    </svg>
+  ),
 };
 
 
@@ -120,6 +134,7 @@ const skills = [
   { name: "UiUx",            category: "Design",    level: 85 },
   { name: "GraphicDesign",   category: "Design",    level: 80 },
   { name: "VideoEditing",    category: "Media",     level: 70 },
+  { name: "Python",          category: "Backend",   level: 60 },
 ];
 
 /* ─── 3D Tilt Card ─────────────────────────────────────────── */

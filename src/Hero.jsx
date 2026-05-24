@@ -367,12 +367,14 @@ export default function HeroSection() {
                   View My Work
                 </button>
               </motion.div>
-              <button
-                className="btn-secondary"
-                onClick={() => window.open("/src/assets/resume.pdf", "_blank")}
-              >
-                Download CV
-              </button>
+             <a
+              href="/resume.pdf"
+              download="M Usman_Resume.pdf"
+              className="btn-secondary"
+              style={{ textDecoration: 'none', display: 'inline-block' }}
+            >
+              Download CV
+            </a>
             </motion.div>
 
             <motion.div className="stat-row" custom={5} initial="hidden" animate="show" variants={stagger}>

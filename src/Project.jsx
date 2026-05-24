@@ -75,6 +75,54 @@ const projects = [
     gradient: "linear-gradient(135deg, #050505 0%, #0d0d0d 55%, #121212 100%)",
     pattern: "grid",
   },
+  {
+    id: 6,
+    number: "07",
+    title: "Leads Generating Automation",
+    subtitle: "Node.js Automation Engine",
+    description:
+      "A robust, automated lead generation program engineered to scrape, validate, and organize high-intent business prospects. Built with a Node.js backend for high-performance data processing and task scheduling, combined with a clean, responsive HTML/CSS dashboard to track crawling metrics and export leads seamlessly.",
+    tags: ["Node.js", "Automation", "HTML & CSS", "Lead Generation"],
+    accent: "#dc2626",
+    gradient: "linear-gradient(135deg, #050505 0%, #0d0d0d 55%, #121212 100%)",
+    pattern: "grid",
+  },
+  {
+    id: 6,
+    number: "08",
+    title: "AI Voice Assistant",
+    subtitle: "Python & React Jarvis Assistant",
+    description:
+      "An advanced AI voice assistant inspired by Jarvis, designed for real-time natural language processing and system automation. Built with a powerful Python backend utilizing speech-to-text (STT) and intent-recognition models, paired with a sleek, interactive React dashboard featuring live voice-wave visualizations and responsive audio feedback.",
+    tags: ["Python", "React", "Artificial Intelligence", "Voice Automation"],
+    accent: "#dc2626",
+    gradient: "linear-gradient(135deg, #050505 0%, #0d0d0d 55%, #121212 100%)",
+    pattern: "grid",
+  },
+  {
+    id: 6,
+    number: "09",
+    title: "AI Appointment Agent",
+    subtitle: "Autonomous Voice Assistant",
+    description:
+      "A high-performance, real-time voice AI agent deployed using Vapi.ai. Configured dynamically via custom JSON instruction payloads to handle low-latency (<500ms) multi-turn telephony logic, custom LLM routing, and structured function calling to automate enterprise-scale inbound calls and lead qualification workflow.",
+    tags: ["Vapi.ai", "JSON Configuration", "Voice Automation", "AI Agents"],
+    accent: "#dc2626",
+    gradient: "linear-gradient(135deg, #050505 0%, #0d0d0d 55%, #121212 100%)",
+    pattern: "grid",
+  },
+  {
+    id: 6,
+    number: "10",
+    title: "Aura-Stream Engine",
+    subtitle: "End-to-End YouTube Automation",
+    description:
+      "A complete, zero-click media management engine built with a Node.js orchestration backend and a high-performance Streamlit dashboard. The system automatically ingests video assets, analyzes raw footage for high-impact insights, uses generative models to produce contextual titles, descriptions, SEO-optimized tags, and thumbnails, and auto-publishes to channels on a precise scheduling matrix.",
+    tags: ["Streamlit", "Node.js", "YouTube Data API", "Media Automation"],
+    accent: "#dc2626",
+    gradient: "linear-gradient(135deg, #050505 0%, #0d0d0d 55%, #121212 100%)",
+    pattern: "grid",
+  },
 ];
 
 /* ─── SVG Pattern Generators ───────────────────────────────── */
